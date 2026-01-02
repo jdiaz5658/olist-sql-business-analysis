@@ -39,7 +39,7 @@ It demonstartes joins, aggregation, time series analysis, and clear business rea
 
 ## Key Findings 
 - Revenue increases year over year, indicating sustained business growth.
-- Revenue is concentrated in a small number of categories, led by cama_mesa_banho (bed, table, bath) and beleza_saude (beauty and health), indicating strong performance in home and personal care related categories.
+- Revenue is concentrated in a small number of categories, led by cama_mesa_banho (bed table bath) and beleza_saude (beauty health), indicating strong performance in home and personal care related categories.
 - Average order value remains stable over time, suggesting growth is driven by higher order volume.
 - On time delivery is strongly associated with higher customer review scores.
 - Nearly half of total revenue comes from the top ten percent of customers, indicating high revenue concentration.  
